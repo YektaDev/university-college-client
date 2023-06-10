@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="university-college-client-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="university-college-client-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="university-college-client.jvmMain" />
+    </root>
+  </artifact>
+</component>
